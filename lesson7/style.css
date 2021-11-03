@@ -1,0 +1,10 @@
+.content{
+    display: flex;
+   flex-wrap: wrap;
+    
+}
+
+.text1{
+    flex-grow: 1;
+    flex-basis: 300px;
+}
