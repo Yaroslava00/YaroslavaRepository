@@ -78,13 +78,20 @@ ul > li:hover{
     height: 10px;
     padding:10px;
     color: black;
-    display:flex;
-    flex-direction: row;
+    display: block;
+   
 }
 .article-block :hover{
     width: 15px;
     height: 15px;
     color: brown;
+}
+.article-bottom{
+    height: 300px;
+    display:flex;
+    justify-content: space-around;
+    align-self: center;
+
 }
 .footer-inner{
     width:100%;
